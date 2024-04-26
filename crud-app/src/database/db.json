@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Virat ",
+      "username": "vkohli",
+      "email": "vk@gmail.com",
+      "phone": "9534785126",
+      "id": 1
+    },
+    {
+      "id": "10de",
+      "name": "Rohit",
+      "username": "rsharma",
+      "email": "rs@gmail.com",
+      "phone": "9327845162"
+    }
+  ]
+}
